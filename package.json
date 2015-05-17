@@ -1,0 +1,23 @@
+{
+  "name": "angular-course",
+  "version": "1.0.0",
+  "description": "angular-course ==============",
+  "main": "angular.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelmarquez90/angular-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelmarquez90/angular-course/issues"
+  },
+  "homepage": "https://github.com/joelmarquez90/angular-course",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "serve-static": "^1.9.3"
+  }
+}
